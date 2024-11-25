@@ -1,1 +1,1 @@
-# Tramplin-Support-Bot
+# Tramplin supportlarini band qilish boti
